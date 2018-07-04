@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120">
+  <style>
+    @keyframes foo{to {transform:rotate(-10deg)}}
+  </style>
+  <text text-anchor="middle" x="50%" y="1em" font-size="100" style="animation: foo 0.4s infinite alternate">
+    🦄
+  </text>
+</svg>
